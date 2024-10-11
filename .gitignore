@@ -1,3 +1,8 @@
+#custom
+.gitignore
+raw_data
+POS_RAW_data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
